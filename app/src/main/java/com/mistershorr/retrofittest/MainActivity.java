@@ -20,6 +20,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class MainActivity extends AppCompatActivity {
 
+    //major change
     public static final String TAG = "MainActivity";
     private RecyclerView recyclerView;
     private RecyclerView.LayoutManager layoutManger;
